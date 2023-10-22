@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "485949359931",
+    "project_id": "thedevilwear-bc43b",
+    "storage_bucket": "thedevilwear-bc43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485949359931:android:2ad99325ae92d8edf5d91e",
+        "android_client_info": {
+          "package_name": "com.example.cocktail_recipe_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485949359931-2itsrchf8kemvp0b6gdmibit5i8t46kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDlUeSms6rsGvAqnOwZW0TGJW0Az1T9wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485949359931-2itsrchf8kemvp0b6gdmibit5i8t46kn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485949359931-dfqvfu5apguil2e9o0lb3r53ols28jlk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hotels"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
